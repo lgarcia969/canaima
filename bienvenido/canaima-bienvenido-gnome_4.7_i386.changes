@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 11 Nov 2013 11:33:24 -0430
+Source: canaima-bienvenido-gnome
+Binary: canaima-bienvenido-gnome
+Architecture: source all
+Version: 4.7
+Distribution: stable
+Urgency: low
+Maintainer: Equipo de Desarrollo de Canaima GNU/Linux <desarrolladores@canaima.softwarelibre.gob.ve>
+Changed-By: Carlos Espinoza <carlosarmikhael@gmail.com>
+Description: 
+ canaima-bienvenido-gnome - Aplicación de bienvenida para Canaima GNU/Linux
+Changes: 
+ canaima-bienvenido-gnome (4.7) stable; urgency=low
+ .
+   * [fb7eebf] Cambiando escudo de la img venezuela del arcerca
+Checksums-Sha1: 
+ e0a5b384c781a768d1c102e1f3cef6c9dc4dc793 1229 canaima-bienvenido-gnome_4.7.dsc
+ d2f3b86328300ca0d089dc7ac541d79162651933 988295 canaima-bienvenido-gnome_4.7.orig.tar.gz
+ 43b6bd233dba80e3d0ed2633a8681bfc1d359565 8806 canaima-bienvenido-gnome_4.7.debian.tar.gz
+ ff2688bd1a8fe85c1cccb36017812da80f89cdbf 954640 canaima-bienvenido-gnome_4.7_all.deb
+Checksums-Sha256: 
+ 1802ea0192a514d007f7ff32590f30231bd4b9b1e32d517c6c7fb6006a5ec99a 1229 canaima-bienvenido-gnome_4.7.dsc
+ a5b0bd4fb908953e1d97117a97aa0ffb93aacd0ab4ace52c7939f5eefe825058 988295 canaima-bienvenido-gnome_4.7.orig.tar.gz
+ 5e66b4a8840a9ccbb5c83d6399d07f21b25ba3472ac9c8af3195a34d4fd345b0 8806 canaima-bienvenido-gnome_4.7.debian.tar.gz
+ 4e122cd6b9e0bf2df63cb9546fa8a11e94e1d3de4749e7ab9a8ecd1a49c99de7 954640 canaima-bienvenido-gnome_4.7_all.deb
+Files: 
+ 451cb9e87e70f199674a307b75d7a84f 1229 misc optional canaima-bienvenido-gnome_4.7.dsc
+ 4cbd151c306cd6cd5087267a1c3a594d 988295 misc optional canaima-bienvenido-gnome_4.7.orig.tar.gz
+ 6e86e3800779aa10d0577fba9bbdb362 8806 misc optional canaima-bienvenido-gnome_4.7.debian.tar.gz
+ 6f73489fcd5781176b6abd0e1796ae8b 954640 misc optional canaima-bienvenido-gnome_4.7_all.deb
